@@ -1,6 +1,6 @@
-# -InsanKaynaklari-PersonelTakipSistemi
 
-Aşağıdaki metin, paylaştığın örnekteki görsel yapıya sadık kalarak, başlıkları daha büyük ve kalın hale getirilmiş, doğrudan kopyalayıp GitHub README.md dosyana yapıştırabileceğin şekilde hazırlanmıştır:
+
+
 
 # 🏢 PERSONEL YÖNETİM VE TAKİP SİSTEMİ
 Altuntaşlar San. ve Tic. Ltd. Şti. için geliştirilen bu uygulama; personel bilgilerini, maaş ödemelerini, izin süreçlerini ve departman verilerini dijital ortamda hatasız bir şekilde yönetmek için tasarlanmış profesyonel bir masaüstü çözümüdür.
