@@ -181,24 +181,24 @@ Personel izinlerinin takvime göre işlendiği ve sonuçların Excel/PDF olarak 
 
 
 # ✨ PROJE HEDEFLERİ
-İnsan kaynakları işlemlerini dijitalleştirerek iş akışını hızlandırmak.
+-İnsan kaynakları işlemlerini dijitalleştirerek iş akışını hızlandırmak.
 
-Kullanıcı dostu arayüz ile kolay yönetim.
+-Kullanıcı dostu arayüz ile kolay yönetim.
 
-Günlük, haftalık ve aylık raporlama.
+-Günlük, haftalık ve aylık raporlama.
 
 
 
 # 📞 İLETİŞİM
 Herhangi bir sorunuz veya öneriniz varsa lütfen benimle iletişime geçin:
 
-Ad Soyad: Nazar Altuntaş
+-Ad Soyad: Nazar Altuntaş
 
-Tel No: +90 532 476 05 24
+-Tel No: +90 532 476 05 24
 
-E-posta: mrsnazar999@gmail.com
+-posta: mrsnazar999@gmail.com
 
-GitHub: https://github.com/nazaralt/-nsanKaynaklar-PersonelTakipSistemi
+-GitHub: https://github.com/nazaralt/-nsanKaynaklar-PersonelTakipSistemi
 
 
 # ▶️ YOUTUBE VİDEO
