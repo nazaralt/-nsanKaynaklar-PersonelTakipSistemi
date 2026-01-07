@@ -69,7 +69,7 @@ Personellerin yıllık veya mazeret izinlerinin kaydedildiği bölümdür. Takvi
 ### 📷 DETAYLI RAPORLAMA VE ANALİZ
 <img width="1388" height="441" alt="Ekran görüntüsü 2026-01-01 174958" src="https://github.com/user-attachments/assets/3c471072-0d37-452b-9bd2-94ec2694cf8f" />
 <img width="1397" height="469" alt="Ekran görüntüsü 2026-01-07 222157" src="https://github.com/user-attachments/assets/ab31b69e-b2f8-42a5-9cd8-bc10e9c3b018" />
-Belirli tarih aralıklarında personel ve finansal durum sorgulaması yapılmasına olanak tanır. Hazırlanan raporlar tek tıkla Excel veya PDF formatına dönüştürülerek dışa aktarılabilir.
+Belirli tarih aralıklarında personel ve finansal durum sorgulaması yapılmasına olanak tanır.Bu raporlama ekranı göründüğü üzere iki ayrı pencereyi ayrılmakta.Bunlar detaylı analiz raporlama ve genel raporlarlamadır.Hazırlanan raporlar tek tıkla Excel veya PDF formatına dönüştürülerek dışa aktarılabilir.
 
 
 
