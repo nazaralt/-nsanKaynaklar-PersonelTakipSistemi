@@ -91,24 +91,31 @@ Belirli tarih aralıklarında personel ve finansal durum sorgulaması yapılmas�
 
 -Entity: Veritabanı nesnelerinin uygulama içerisindeki modelleri.
 
-#✨ Proje Hedefleri
+
+
+https://www.google.com/search?q=%23 ✨ Proje Hedefleri
 İnsan kaynakları işlemlerini dijitalleştirerek iş akışını hızlandırmak.
 
-Kullanıcı dostu arayüz ile kolay yönetim sağlamak.
+Kullanıcı dostu arayüz ile kolay yönetim.
 
-Günlük, haftalık ve aylık personel raporlaması.
+Günlük, haftalık ve aylık raporlama.
 
-#📞 İletişim
+
+
+https://www.google.com/search?q=%23 📞 İletişim
 Herhangi bir sorunuz veya öneriniz varsa lütfen benimle iletişime geçin:
 
 Ad: Nazar
 
 Soyad: Altuntaş
 
+Tel No: +90 532 476 05 24
+
 E-posta: mrsnazar999@gmail.com
 
-Telefon:0532 476 0524
 
-#▶️ Youtube Video
+
+https://www.google.com/search?q=%23 ▶️ Youtube Video
+Youtube proje tanıtım videosunu izlemek için tıklayın
 
 
