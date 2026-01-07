@@ -74,13 +74,14 @@ Belirli tarih aralıklarında personel ve finansal durum sorgulaması yapılmas�
 
 
 # 🚀 KULLANIM
--Projeyi indirin.
+-Projeyi indirin(GitHub: https://github.com/nazaralt/-nsanKaynaklar-PersonelTakipSistemi)
 
 -Visual Studio kullanarak projeyi açın.
 
 -Gerekli veritabanı bağlantı ayarlarını yapılandırın.
 
 -Uygulamayı çalıştırın ve giriş ekranından kullanıcı bilgilerinizi girerek başlayın.
+
 
 # 🛠 PROJE YAPISI
 -DAL (Data Access Layer): Veritabanı bağlantı ve CRUD işlemleri.
@@ -108,8 +109,6 @@ Ad Soyad: Nazar Altuntaş
 Tel No: +90 532 476 05 24
 
 E-posta: mrsnazar999@gmail.com
-
-GitHub: https://github.com/nazaralt/-nsanKaynaklar-PersonelTakipSistemi
 
 
 # ▶️ YOUTUBE VİDEO
