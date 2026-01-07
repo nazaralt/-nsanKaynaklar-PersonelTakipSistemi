@@ -1,28 +1,30 @@
 # -InsanKaynaklari-PersonelTakipSistemi
 
-Personel Yönetim Sistemi
-Altuntaşlar San. ve Tic. Ltd. Şti. için geliştirilmiş, personel süreçlerini dijitalleştiren ve yönetimi kolaylaştıran bir masaüstü uygulamasıdır. Bu platform; çalışan bilgilerini, maaş ödemelerini, izin taleplerini ve departman bazlı raporlamaları tek bir merkezden yönetme imkanı sunar.
+Aşağıdaki metin, paylaştığın örnekteki görsel yapıya sadık kalarak, başlıkları daha büyük ve kalın hale getirilmiş, doğrudan kopyalayıp GitHub README.md dosyana yapıştırabileceğin şekilde hazırlanmıştır:
 
-📌 Proje Özellikleri
-Giriş ve Yetkilendirme: Kullanıcı doğrulaması ile sisteme güvenli erişim.
+# 🏢 PERSONEL YÖNETİM VE TAKİP SİSTEMİ
+Altuntaşlar San. ve Tic. Ltd. Şti. için geliştirilen bu uygulama; personel bilgilerini, maaş ödemelerini, izin süreçlerini ve departman verilerini dijital ortamda hatasız bir şekilde yönetmek için tasarlanmış profesyonel bir masaüstü çözümüdür.
 
-Personel İşlemleri: Personel bilgilerini görüntüleme, yeni kayıt ekleme, güncelleme ve silme.
+# 📌 PROJE ÖZELLİKLERİ
+GİRİŞ VE YÖNETİCİ PANELİ: Kullanıcı adı ve şifre doğrulaması ile yetkisiz erişimi engelleyen güvenlik katmanı.
 
-Maaş Yönetimi: Maaş, prim ve kesinti hesaplamaları ile net maaş takibi.
+PERSONEL İŞLEMLERİ: Yeni personel kaydı oluşturma, mevcut bilgileri güncelleme ve kayıt silme fonksiyonları.
 
-İzin Yönetimi: İzin türüne göre başlangıç ve bitiş tarihli izin talebi oluşturma, onay/red süreçleri.
+MAAŞ VE BORDRO YÖNETİMİ: Maaş, prim ve kesinti verilerini işleyerek otomatik net maaş hesaplama sistemi.
 
-Departman Yönetimi: Şirket bünyesindeki departmanların dinamik olarak tanımlanması ve düzenlenmesi.
+İZİN TAKİP SİSTEMİ: İzin türü seçimi, başlangıç/bitiş tarihi belirleme ve izin gün sayısını otomatik hesaplama özelliği.
 
-Raporlama ve Analiz: Genel durum takibi, detaylı analizler ve verilerin Excel/PDF olarak dışa aktarılması.
+DEPARTMAN YÖNETİMİ: Şirket bünyesindeki birimleri dinamik olarak ekleme, silme ve güncelleme paneli.
 
-📂 Kullanılan Teknolojiler
-C# (.NET Framework): Güçlü ve nesne yönelimli programlama dili.
+RAPORLAMA VE ANALİZ: Verileri tarih aralığına göre sorgulama, Excel ve PDF formatında dışa aktarma yeteneği.
 
-Windows Forms: Kullanıcı dostu ve hızlı masaüstü arayüz tasarımı.
+# 📂 KULLANILAN TEKNOLOJİLER
+C# (.NET FRAMEWORK): Uygulamanın temel programlama dili ve çalışma yapısı.
 
-Veritabanı: Verilerin güvenli şekilde saklanması ve yönetilmesi (SQL Server/MySQL).
+WINDOWS FORMS: Kullanıcı dostu ve hızlı tepki veren masaüstü arayüz tasarımı.
 
-Katmanlı Mimari: Sürdürülebilir ve geliştirilebilir kod yapısı (DAL, BLL gibi).
+VERİTABANI YÖNETİMİ: Personel ve finansal verilerin güvenli şekilde saklandığı veritabanı mimarisi.
 
-Modern Arayüz: Kullanıcı deneyimini ön planda tutan, anlaşılır ve temiz tasarım.
+KATMANLI MİMARİ (DAL, BLL): Kodun okunabilirliğini ve geliştirilebilirliğini artıran profesyonel mimari yapı.
+
+MODERN ARAYÜZ TASARIMI: İkonlar ve renk paleti ile optimize edilmiş kullanıcı deneyimi.
