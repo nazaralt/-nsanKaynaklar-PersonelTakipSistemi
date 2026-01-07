@@ -71,3 +71,23 @@ Personellerin yıllık veya mazeret izinlerinin kaydedildiği bölümdür. Takvi
 <img width="1397" height="469" alt="Ekran görüntüsü 2026-01-07 222157" src="https://github.com/user-attachments/assets/ab31b69e-b2f8-42a5-9cd8-bc10e9c3b018" />
 Belirli tarih aralıklarında personel ve finansal durum sorgulaması yapılmasına olanak tanır. Hazırlanan raporlar tek tıkla Excel veya PDF formatına dönüştürülerek dışa aktarılabilir.
 
+
+
+# 🚀 KULLANIM
+-Projeyi indirin.
+
+-Visual Studio kullanarak projeyi açın.
+
+-Gerekli veritabanı bağlantı ayarlarını yapılandırın.
+
+-Uygulamayı çalıştırın ve giriş ekranından kullanıcı bilgilerinizi girerek başlayın.
+
+# 🛠 PROJE YAPISI
+-DAL (Data Access Layer): Veritabanı bağlantı ve CRUD işlemleri.
+
+-BLL (Business Logic Layer): İş mantığı ve hesaplama kontrolleri.
+
+-UI (User Interface): Windows Forms kullanıcı arayüzü katmanı.
+
+-Entity: Veritabanı nesnelerinin uygulama içerisindeki modelleri.
+
