@@ -74,7 +74,7 @@ Belirli tarih aralıklarında personel ve finansal durum sorgulaması yapılmas�
 
 
 # 🚀 KULLANIM
-[Tıkllayınız](https://github.com/nazaralt/-nsanKaynaklar-PersonelTakipSistemi)
+-İndirmek için.[Tıklayınız](https://github.com/nazaralt/-nsanKaynaklar-PersonelTakipSistemi)
 
 -Visual Studio kullanarak projeyi açın.
 
