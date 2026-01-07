@@ -1,1 +1,1 @@
-# -nsanKaynaklar-PersonelTakipSistemi
+# -InsanKaynaklari-PersonelTakipSistemi
