@@ -113,7 +113,7 @@ E-posta: mrsnazar999@gmail.com
 
 # ▶️ YOUTUBE VİDEO
 
-
+YouTuve videosu için [tıklayınız.](https://youtu.be/thCApuJL-AY)
 
 
 
